@@ -14,3 +14,4 @@ I´m trying put some manual task at my company in a digital way.
 
 
 ## :coffee: Get in touch
+Say hello on [instagram](https://instagram/ptrickcesar) or [email](mailto:patrick@techplatform.digital)
