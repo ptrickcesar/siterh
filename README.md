@@ -2,9 +2,15 @@
 
 I´m trying put some manual task at my company in a digital way.
 
-## 🖥️ Tech Stack
+<img src="/images/tela.png">
 
-- Build with HTML/CSS ( for now )
+
+
+
+
+## 🖥️ Status
+
+- In progress :chart_with_upwards_trend:
 
 
 ## :floppy_disk: How to Install
