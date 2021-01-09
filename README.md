@@ -8,9 +8,9 @@ I´m trying put some manual task at my company in a digital way.
 
 
 
-## 🖥️ Tech Stack
+## 🖥️ Status
 
-- Build with HTML/CSS ( for now )
+- In progress :chart_with_upwards_trend:
 
 
 ## :floppy_disk: How to Install
