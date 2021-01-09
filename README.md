@@ -2,7 +2,7 @@
 
 I´m trying put some manual task at my company in a digital way.
 
-<img src="/images/tela">
+<img src="/images/tela.png">
 
 
 
