@@ -2,10 +2,7 @@
 
 I´m trying put some manual task at my company in a digital way.
 
-<img src="/images/tela.png">
-
-
-
+[link](https://ptrickcesar.github.io/siterh/)
 
 
 ## 🖥️ Status
@@ -15,8 +12,7 @@ I´m trying put some manual task at my company in a digital way.
 
 ## :floppy_disk: How to Install
 
-- Clone this repository and runs yarn to install all develop dependecies.
-
+- Clone this repository.
 
 
 ## :coffee: Get in touch
