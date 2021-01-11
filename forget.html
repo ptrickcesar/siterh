@@ -20,38 +20,30 @@
 
 <body>
   <div class="form-brand">
-    <h2>Fazer login em </h2>
+    <h2>Recuperar senha </h2>
     <img src="images/logo.png" alt="RH Adventista" height="70">
     <p></p>
   </div>
 
     <div class="form-login">
       <form>
-        <legend> Username </legend>
+        <legend> CPF </legend>
         <p>
-        <input type="email" value="insira seu e-mail" onfocus="this.value='';">
-        </p>
-        <legend> Password </legend>
-        <p>
-        <input type="password" value="insira sua senha" onfocus="this.value='';">
-        </p>
-          <div class="form-remember">
-        <input type="checkbox">
-        <legend> Lembrar</legend>
-          </div>
+        <input type="text" value="insira seu CPF" onfocus="this.value='';">
+        <!-- onfocus zera o value do input -->
         </p>
       </form>    
     </div>
-    
-    <div class="form-forget">
-      <a href="forget.html">
-        <button legend> Esqueci a senha</button>
+
+    <div id="form-logon">
+      <a href="/">
+        <button legend> Enviar</button>
       </a>
     </div>
 
-    <div class="form-logon">
-      <a href="login.html">
-        <button legend> Acessar</button>
+    <div id="form-forget">
+      <a href="/">
+        <button legend> Voltar a página inicial</button>
       </a>
     </div>
 

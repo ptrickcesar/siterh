@@ -1,3 +1,5 @@
+body{width:100%;margin: 0 auto;min-width:768px;max-width:2000px}
+
 .navbar-header {
   background-color:silver;
 }
@@ -6,24 +8,85 @@
   display: flex;
 }
 
+.form-brand{
+  justify-content: center;
+  margin-top: 70px;
+  margin-left: 551px;
+  margin-right: 115px;
+}
+
 .form-login {
   justify-content: center;
-  margin-top:100px;
   display: flex;
-  position: relative;
+  margin-top:90px;
+  margin-left: 550px; width: 323px;
+  border-left: 10px solid steelblue;
+  border-right: 10px solid steelblue;
+  border-bottom: 10px solid steelblue;
+  border-top: 10px solid steelblue;
   font-weight: bold;
-  padding: auto;
-  outline: 0;
-  border: 3px solid steelblue; border-bottom: none; margin-left: 200px; height: 7px; width: 323px; ;
-  border-left: 3px solid steelblue; border-right: 3px solid steelblue; border-bottom: 3px solid steelblue; height: 200px; padding: 5px 0;
-  border-top: 3px solid steelblue;height: 165px;
+  padding: 5px 0;
 }
 
 .form-forget{
-  margin-top: 30px;
-  margin-left: 200px;
+  margin-top: 50px;
+  margin-left: 551px;
   margin-right: 115px;
   display: flex;
-  padding: auto;
   justify-content: space-between;
+}
+
+.form-logon{
+  margin-top: -20px;
+  margin-left: 825px;
+  margin-right: 115px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#form-forget{
+  margin-top: 50px;
+  margin-left: 550px;
+  margin-right: 115px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#form-logon{
+  margin-top: 50px;
+  margin-left: 840px;
+  margin-right: 115px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.icon-avatar{
+  margin-top: 30px;
+  margin-left: 40px;
+}
+
+.info{
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 1rem;
+}
+
+#func{
+  margin-top: 10px;
+  margin-left: 40px;
+  font-weight: normal;
+}
+
+.menu{
+  margin-left: 30px;
+  margin-top: 50px;
+}
+
+.personal-info{
+  margin-left: 20px;
+}
+
+#form-info{
+  margin-top: 50px;
+  margin-left: 330px;
 }
