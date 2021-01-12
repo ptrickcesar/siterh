@@ -8,7 +8,7 @@ body{width:100%;margin: 0 auto;min-width:768px;max-width:2000px}
   display: flex;
 }
 
-.form-brand{
+.form-brand {
   justify-content: center;
   margin-top: 70px;
   margin-left: 551px;
@@ -28,7 +28,7 @@ body{width:100%;margin: 0 auto;min-width:768px;max-width:2000px}
   padding: 5px 0;
 }
 
-.form-forget{
+.form-forget {
   margin-top: 50px;
   margin-left: 551px;
   margin-right: 115px;
@@ -44,7 +44,7 @@ body{width:100%;margin: 0 auto;min-width:768px;max-width:2000px}
   justify-content: space-between;
 }
 
-#form-forget{
+#form-forget {
   margin-top: 50px;
   margin-left: 550px;
   margin-right: 115px;
@@ -52,7 +52,7 @@ body{width:100%;margin: 0 auto;min-width:768px;max-width:2000px}
   justify-content: space-between;
 }
 
-#form-logon{
+#form-logon {
   margin-top: 50px;
   margin-left: 840px;
   margin-right: 115px;
@@ -60,7 +60,7 @@ body{width:100%;margin: 0 auto;min-width:768px;max-width:2000px}
   justify-content: space-between;
 }
 
-.icon-avatar{
+.icon-avatar {
   margin-top: 30px;
   margin-left: 40px;
 }
@@ -71,22 +71,49 @@ body{width:100%;margin: 0 auto;min-width:768px;max-width:2000px}
   margin-left: 1rem;
 }
 
-#func{
+#func {
   margin-top: 10px;
   margin-left: 40px;
   font-weight: normal;
 }
 
-.menu{
+.menu {
   margin-left: 30px;
   margin-top: 50px;
 }
 
-.personal-info{
+.personal-info {
   margin-left: 20px;
 }
 
-#form-info{
+#form-info {
   margin-top: 50px;
   margin-left: 330px;
+}
+
+.date{
+  margin-top: 10px;
+  margin-left: 110px;
+}
+
+.form-calendar {
+  margin-top: auto;
+  margin-left: 125px;
+  font-weight: bolder;
+  color: steelblue;
+}
+
+#menu-just {
+  margin-top: 80px;
+  margin-left: 100px;
+}
+
+.reason {
+  margin-left: 125px;
+  font-weight: lighter;
+  color: steelblue;
+}
+
+#time {
+  margin-left: 125px;
 }
