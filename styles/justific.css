@@ -1,0 +1,27 @@
+#menu-just {
+  margin-top: 80px;
+  margin-left: 100px;
+}
+
+.date{
+  margin-top: 10px;
+  margin-left: 110px;
+}
+
+.form-calendar {
+  margin-top: auto;
+  margin-left: 125px;
+  font-weight: bolder;
+  color: steelblue;
+}
+
+#time {
+  margin-left: 125px;
+}
+
+.reason {
+  margin-left: 125px;
+  font-weight: lighter;
+  color: steelblue;
+}
+

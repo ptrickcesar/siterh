@@ -1,0 +1,28 @@
+.forget-login {
+  justify-content: center;
+  display: flex;
+  margin-top:90px;
+  margin-left: 550px; width: 323px;
+  border-left: 10px solid steelblue;
+  border-right: 10px solid steelblue;
+  border-bottom: 10px solid steelblue;
+  border-top: 10px solid steelblue;
+  font-weight: bold;
+  padding: 5px 0;
+}
+
+#forget-logon {
+  margin-top: 50px;
+  margin-left: 840px;
+  margin-right: 115px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#forget {
+  margin-top: 50px;
+  margin-left: 550px;
+  margin-right: 115px;
+  display: flex;
+  justify-content: space-between;
+}
